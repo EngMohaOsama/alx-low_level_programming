@@ -1,4 +1,4 @@
-i#include <stdio.h>
+#include <stdio.h>
 
 /**
  * main - prints all possible different combinations of two digits
@@ -27,3 +27,4 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+
